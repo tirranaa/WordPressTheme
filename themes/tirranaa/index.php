@@ -9,7 +9,7 @@
 
   gtag('config', 'G-WEPLBRVP59');
 </script>
-  <body data-home-page="http://tirranaa.github.io/T/" data-home-page-title="Ivaylo Yordanov" class="u-black u-body">  
+  <body data-home-page="http://tirranaa.github.dev.cc/T/" data-home-page-title="Ivaylo Yordanov" class="u-black u-body">  
 	  
 <span id="wts2054327"></span>
 <script>
